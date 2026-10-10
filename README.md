@@ -553,7 +553,13 @@ These questions help you demonstrate technical understanding. Each answer should
 Submit **only the link to your public GitHub repository** (no other files or information):
 
 ```
-https://github.com/[your-username]/OS-Assignment1-[YourFirstName]-[YourLastName]
+Student Name: Mohammed Aldosari 
+|Student ID: 444052541 
+University Email:  444052541@std.psau.edu.sa
+GitHub Username: Mohammed-Aldosari1 
+Repository Link: https://github.com/Mohammed-Aldosari1/OS-Assignment1-Mohammed-Aldosari.git 
+Video Link: https://drive.google.com/file/d/1HuCLXrzs8wcjPhi_0YJSGnKUM8gntwov/view?usp=drive_link
+Date Submitted: October 10, 2026
 ```
 
 Everything else (name, student ID, development log, reflection, answers, and the video link) is read from your repository, in `MY_WORK.md`. Make sure the repository is public and complete before the deadline.
